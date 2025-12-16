@@ -1,3 +1,3 @@
 # Exploring Claude Code
 
-- Step By Step learngin of `claude code`.
+- Step By Step learning of `claude code`.
